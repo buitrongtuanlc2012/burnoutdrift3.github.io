@@ -1733,7 +1733,7 @@ hr {
 }
 
 .flop-game-row {
-    margin-top: 160px;
+    margin-top: 30px;
     margin-bottom: 20px;
 }
 
@@ -1742,7 +1742,7 @@ hr {
 .game {
     border-radius: 15px;
     overflow: hidden;
-    width: 75%;
+    width: 100%;
     padding: 16px;
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
